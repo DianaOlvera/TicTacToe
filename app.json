@@ -5,8 +5,11 @@
     "slug": "tictoe",
     "privacy": "public",
     "sdkVersion": "31.0.0",
-    "platforms": ["ios", "android"],
-    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -22,6 +25,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android": {
+      "package": "com.tictoe.tictoe"
     }
   }
 }
