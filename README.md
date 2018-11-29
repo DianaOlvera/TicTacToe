@@ -1,5 +1,5 @@
 # TicTacToe
-![juego](https://mail.google.com/mail/u/0/#inbox/CwCPbnfCfBjmRKRxZwwDJmFKKTxZZBG?projector=1&messagePartId=0.2)
+![juego](https://github.com/DianaOlvera/TicTacToe/blob/master/assets/IMG_20181128_215740.png)
 
 ##Si te gustaría jugar Tic Tac Toe el clásico juego del gato es necesario seguir los siguientes pasos:
 
@@ -8,6 +8,7 @@
 •Accede a la siguiente URL(https://expo.io/@dianaol/tictoe) y scanea el código QR
 
 • o simplemente escanear el siguiente código QR 
+![codigo](https://github.com/DianaOlvera/TicTacToe/blob/master/assets/Captura.PNG)
 
 listo podrás divertirte!!.
 
